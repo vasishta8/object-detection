@@ -1,0 +1,14 @@
+opencv-python
+torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu121
+gitpython>=3.1.30
+matplotlib>=3.3
+numpy>=1.23.5
+opencv-python>=4.1.1
+pillow>=10.3.0
+psutil  # system resources
+PyYAML>=5.3.1
+requests>=2.32.0
+scipy>=1.4.1
+thop>=0.1.1  # FLOPs computation
+tqdm>=4.64.0
+ultralytics>=8.2.34
